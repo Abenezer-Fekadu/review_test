@@ -86,6 +86,5 @@ def get_exam_questions_as_list(course, chapter, topic):
         pprint(question_data)
         if question_data:
             all_questions.append(question_data)
-            print("#" * 20)
 
     return all_questions
