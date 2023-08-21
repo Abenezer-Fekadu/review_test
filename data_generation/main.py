@@ -1,5 +1,5 @@
 """
-This file contains an entry point function for creating a list exam questions for a given topic.
+This file contains an entry point function for creating a list of exam questions for a given topic.
 """
 
 
