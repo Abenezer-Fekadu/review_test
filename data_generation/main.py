@@ -1,6 +1,7 @@
-"""This is entrypoint function that contains creates a prompt for ChatGPT
-and obtains a response (an exam question) from it for a given topic
 """
+This file contains an entry point function for creating a list exam questions for a given topic.
+"""
+
 
 
 import os
